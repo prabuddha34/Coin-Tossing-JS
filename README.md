@@ -14,7 +14,7 @@ Click the **Toss Coin** button to randomly get either **Heads** or **Tails**, di
 
 ---
 
-## How to Use
+## How to Use 🪟
 
 1. Open `index.html` in your web browser.  
 2. Click the **Toss Coin** button.  
@@ -22,6 +22,10 @@ Click the **Toss Coin** button to randomly get either **Heads** or **Tails**, di
 
 ---
 
-## Screenshot
+## Video 📷
+
+https://github.com/user-attachments/assets/883d9bd0-8153-42ea-8d94-cd190761f8e1
+
+
 
 
